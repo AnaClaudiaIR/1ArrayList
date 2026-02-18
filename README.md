@@ -1,1 +1,1 @@
-ArrayList que imprime una serie de elementos.
+ArrayList con una serie de elementos, que se imprimen por consola.
