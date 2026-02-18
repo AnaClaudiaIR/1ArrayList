@@ -8,12 +8,12 @@ import java.util.List;
             List<String> lista = new ArrayList<>();
 
             //2. Añadir elementos
-            lista.add("Elemento1");
-            lista.add("Elemento2");
-            lista.add("Elemento2");
+            lista.add("Lorena");
+            lista.add("Sara");
+            lista.add("Lucas");
 
-            lista.add(3,"Elemento3");
-            lista.add(4,"Elemento4");
+            lista.add(3,"Nina");
+            lista.add(4,"Sabrina");
 
             //3. Mostrar elementos de la lista
             for (String elemento:lista){
@@ -22,7 +22,7 @@ import java.util.List;
 
             //4. Eliminar elementos de la lista
             lista.remove(4);
-            lista.remove("Elemento1");
+            lista.remove("Lorena");
 
             System.out.println("-----------------------------");
             for (String elemento:lista){
